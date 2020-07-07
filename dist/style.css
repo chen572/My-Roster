@@ -62,7 +62,7 @@ span {
     border-radius: 5px;
     margin: 20px;
     background: linear-gradient(
-    white, white 50%, black 50%, black
+    white, white 50%, #333 50%, #333
     );
     background-size: 100% 200%;
     transition: all 0.2s ease;
